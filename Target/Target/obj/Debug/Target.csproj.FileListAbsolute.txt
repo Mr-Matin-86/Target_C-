@@ -1,0 +1,8 @@
+c:\users\matin\documents\visual studio 2012\Projects\Target\Target\bin\Debug\Target.exe.config
+c:\users\matin\documents\visual studio 2012\Projects\Target\Target\bin\Debug\Target.exe
+c:\users\matin\documents\visual studio 2012\Projects\Target\Target\bin\Debug\Target.pdb
+c:\users\matin\documents\visual studio 2012\Projects\Target\Target\obj\Debug\Target.FRMMain.resources
+c:\users\matin\documents\visual studio 2012\Projects\Target\Target\obj\Debug\Target.Properties.Resources.resources
+c:\users\matin\documents\visual studio 2012\Projects\Target\Target\obj\Debug\Target.csproj.GenerateResource.Cache
+c:\users\matin\documents\visual studio 2012\Projects\Target\Target\obj\Debug\Target.exe
+c:\users\matin\documents\visual studio 2012\Projects\Target\Target\obj\Debug\Target.pdb
